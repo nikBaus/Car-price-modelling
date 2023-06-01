@@ -1,0 +1,3 @@
+# Car-price-modelling
+Dataset containing dependent variable (price) and independent variables (mileage, brand, year etc.) used to create a model to predict the price of cars.
+Provided with a dataset which comprise of variable that are perceived to have an impact on the price of a car, a model was developed to predict the prices of car. Variables such as brand, mileage, year etc. Data cleaning, wrangling and exploration were performed before a multiple linear regression model was created. Variables, however, with a p-value greater than 0.005 were considered insignificant to the model and were therefore, dropped.
